@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1A5E3CF9-42F9-884D-13A0-F3B19EB25E7F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OpenWorld",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
